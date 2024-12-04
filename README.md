@@ -86,44 +86,5 @@ Les Google Dorks suivent une syntaxe particulière utilisant des opérateurs de 
 
 
 
-  ## Catégories à explorer
-
-Voici quelques catégories de dorks populaires pour commencer :
-
-1. **Webcams - Un regard sur le monde** : Découvrez les flux de caméra en direct de toute la planète !
-
-2. **Injection SQL (SQLi)** : Découvrez les vulnérabilités de sécurité liées à l'injection SQL.
-
-3. **Cross-Site Scripting (XSS)** : Découvrez les vulnérabilités liées au cross-site scripting.
-
-4. **Serveurs vulnérables - Démasquer les faiblesses** : Découvrez les serveurs vulnérables et points potentiels de faiblesse.
-
-5. **Répertoires sensibles - Explorer les chemins cachés** : Explorez les répertoires cachés et des données confidentielles.
-
-6. **Fichiers de base de données** : Découvrez les fichiers de base de données qui pourraient contenir des informations sensibles.
-
-7. **Pages de connexion** : Découvrez les portails de connexion et points d'accès aux systèmes sécurisés.
-
-8. **Appareils réseau** : Explorez les appareils réseau, routeurs et points d'accès.
-
-9. **Systèmes de surveillance CCTV** : Explorez les systèmes de caméras de surveillance et flux vidéo en direct.
-
-10. **Serveurs Apache Tomcat** : Découvrez les serveurs Apache Tomcat et applications.
-
-11. **Messages d'erreur** : Analysez divers messages d'error pour comprendre le comportement des serveurs web et potentielles vulnérabilités.
-
-12. **Fichiers de configuration Git** : Explorez les dépôts Git, bases de code et systèmes de contrôle des versions.
-
-13. **Fichiers de configuration** : Démasquez les fichiers de configuration et paramètres système.
-
-14. **Fichiers PHP d'information** : Découvrez les fichiers d'information PHP.
-
-15. **Sites WordPress** : Explorez les sites et blogs WordPress.
-
-16. **Répertoires ouverts** : Participez à une quête pour trouver des répertoires ouverts avec contenu précieux.
-
-17. **Liens Google Drive** : Débloquez des liens directs vers des fichiers Google Drive.
-
-18. **Fichiers de configuration WordPress** : Découvrez les fichiers de configuration WordPress.
 
 19. **Clés d'accès AWS** : Trouvez des cl```
